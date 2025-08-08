@@ -3,10 +3,12 @@ package org.jogoDaForca;
 
 public class ForcaGrafico {
     public static void mostrar(int erros) {
+        System.out.println("=== Jogo da Forca ===\n");
+
         String[] forca = {
                 """
               _______
-             |/      
+             |/      |
              |      
              |      
              |      
@@ -17,7 +19,7 @@ public class ForcaGrafico {
               _______
              |/      |
              |      ( )
-             |        
+             |      
              |      
              |     
             _|___
@@ -27,7 +29,7 @@ public class ForcaGrafico {
              |/      |
              |      ( )
              |       |
-             |       
+             |      
              |     
             _|___
             """,
@@ -36,7 +38,7 @@ public class ForcaGrafico {
              |/      |
              |      ( )
              |      /|
-             |       
+             |      
              |     
             _|___
             """,
@@ -45,7 +47,7 @@ public class ForcaGrafico {
              |/      |
              |      ( )
              |      /|\\
-             |       
+             |      
              |     
             _|___
             """,

@@ -22,6 +22,9 @@ public class JogoDaForca {
             boolean venceu = false;
 
             while (erros < MAX_ERROS && !venceu) {
+                System.out.println("====================================");
+                System.out.println(" Jogo Da Forca ");
+                System.out.println("====================================");
                 System.out.println("\nPalavra: " + String.valueOf(exibicao));
                 System.out.print("Digite uma letra: ");
                 String entrada = scanner.nextLine().toLowerCase();
