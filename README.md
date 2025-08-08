@@ -13,6 +13,7 @@ Após cada partida, o jogador pode decidir se quer jogar novamente. 🔁
 🎮 Jogador tenta adivinhar a palavra letra por letra
 
 ⚠️ Boneco da forca aparece conforme os erros
+<img width="301" height="362" alt="image" src="https://github.com/user-attachments/assets/bf2d37b1-bca9-494f-85af-4af534de691a" />
 
 🔁 Opção de jogar novamente após o fim da partida
 
@@ -21,9 +22,6 @@ Após cada partida, o jogador pode decidir se quer jogar novamente. 🔁
 
 
 <img width="338" height="371" alt="image" src="https://github.com/user-attachments/assets/7bf48895-8c55-4162-878d-8e1ab7516b5d" />
-
-⚠️ Boneco da forca aparece conforme os erros
-<img width="301" height="362" alt="image" src="https://github.com/user-attachments/assets/bf2d37b1-bca9-494f-85af-4af534de691a" />
 
 
 
