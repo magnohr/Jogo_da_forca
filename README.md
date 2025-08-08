@@ -16,3 +16,5 @@ Após cada partida, o jogador pode decidir se quer jogar novamente. 🔁
 ⚠️ Boneco da forca aparece conforme os erros
 
 🔁 Opção de jogar novamente após o fim da partida
+
+<img width="295" height="335" alt="image" src="https://github.com/user-attachments/assets/03f2c07a-0456-4c30-bcb0-0c0f50ad3fd8" />
