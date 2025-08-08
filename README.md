@@ -18,7 +18,7 @@ Após cada partida, o jogador pode decidir se quer jogar novamente. 🔁
 
 =================================================================================================================================
 <img width="365" height="133" alt="image" src="https://github.com/user-attachments/assets/eaba793f-ea3a-454b-b1a0-15b55be316ac" />
-=================================================================================================================================
+
 
 <img width="338" height="371" alt="image" src="https://github.com/user-attachments/assets/7bf48895-8c55-4162-878d-8e1ab7516b5d" />
 
